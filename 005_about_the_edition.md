@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About this Edition
-number: 005
+number: 5
 ---
 
 # About this Edition
