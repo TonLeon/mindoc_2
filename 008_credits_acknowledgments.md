@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Supplements
-number: 008 
+number: 8
 ---
 
 # Credits and Acknowledgments
